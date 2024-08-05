@@ -17,10 +17,10 @@
 
 二、專案資料夾及檔案說明  
 **\專案\Dataset**  
-[Kaggle](https://www.kaggle.com/datasets/nancymee/customer-segmentation-data)
+[Kaggle](https://www.kaggle.com/datasets/nancymee/customer-segmentation-data)  
 **\專案\Python Work**  
-資料清洗及導入資料庫
+資料清洗及導入資料庫  
 **\專案Power BI**  
 客戶相關資訊及銷售狀況及顧客關係圖表呈現  
-![Dashboard1](https://github.com/TaenggusFan/CRM_Dashboard/blob/main/Power%20BI/Dashboard1.png?raw=true)
-![Dashboard2](https://github.com/TaenggusFan/CRM_Dashboard/blob/main/Power%20BI/Dashboard2.png?raw=true)
+![Dashboard1](https://github.com/TaenggusFan/CRM_Dashboard/blob/main/Power%20BI/Dashboard1.png?raw=true)  
+![Dashboard2](https://github.com/TaenggusFan/CRM_Dashboard/blob/main/Power%20BI/Dashboard2.png?raw=true)  
